@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 , I'm Dilara SEREN</h1>
+<h1 align="center">Hi 👋 , I'm Dilara</h1>
 
 - 🎓 I am studying Düzce University Computer Engineering department.
 - 👩🏻‍💻 I am currently working as a Cloud Infrastructure & Virtualization Operations Engineer in Turk Telekom

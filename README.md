@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 , I'm Dilara</h1>
 
 - 🎓 I am studying Düzce University Computer Engineering department.
-- 👩🏻‍💻 I am currently working as a Cloud Infrastructure & Virtualization Operations Engineer in Turk Telekom
+- 👩🏻‍💻 I am currently working on Turk Telekom
 - 💌 You can reach me on [dilaraserenbm@gmail.com](mailto:dilaraserenbm@gmail.com)
 
 <h4 align="center">You could contact me using those links.</h4>

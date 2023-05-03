@@ -3,6 +3,7 @@
 - 🎓 I am studying Düzce University Computer Engineering department.
 - 👩🏻‍💻 I am currently working on Turk Telekom
 - 💌 You can reach me on [dilaraserenbm@gmail.com](mailto:dilaraserenbm@gmail.com)
+  [![](https://visitcount.itsvg.in/api?id=dilaraseren&icon=0&color=10)](https://visitcount.itsvg.in)
 
 <h4 align="center">You could contact me using those links.</h4>
 <p align="center">

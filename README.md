@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋 , I'm Dilara</h1>
 
+ [![](https://visitcount.itsvg.in/api?id=dilaraseren&icon=0&color=10)](https://visitcount.itsvg.in)
+
 - 🎓 I am studying Düzce University Computer Engineering department.
 - 👩🏻‍💻 I am currently working on Turk Telekom
-- 💌 You can reach me on [dilaraserenbm@gmail.com](mailto:dilaraserenbm@gmail.com)
-  [![](https://visitcount.itsvg.in/api?id=dilaraseren&icon=0&color=10)](https://visitcount.itsvg.in)
+- 💌 You can reach me on [dilaraserenbm@gmail.com](mailto:dilaraserenbm@gmail.com) <br>
 
 <h4 align="center">You could contact me using those links.</h4>
 <p align="center">

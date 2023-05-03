@@ -3,14 +3,16 @@
  [![](https://visitcount.itsvg.in/api?id=dilaraseren&icon=0&color=10)](https://visitcount.itsvg.in)
 
 - 🎓 I am studying Düzce University Computer Engineering department.
-- 👩🏻‍💻 I am currently working on Turk Telekom
+- 👩🏻‍💻 I am currently working on [Turk Telekom](https://www.turktelekomkariyer.com.tr/)
 - 💌 You can reach me on [dilaraserenbm@gmail.com](mailto:dilaraserenbm@gmail.com) <br>
 
 <h4 align="center">You could contact me using those links.</h4>
 <p align="center">
-  <a href="https://www.linkedin.com/in/dilaraseren/"  target="_blank" rel="nofollow"><img alt="Dilara SEREN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:dilaraserenbm@gmail.com" target="_blank" rel="nofollow"><img alt="Dilara's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
- </p>
+ <a href="https://linkedin.com/in/in/dilaraseren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/dilaraseren" height="30" width="40" /></a>
+<a href="https://instagram.com/aralidneress" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aralidneress" height="30" width="40" /></a>
+<a href="https://medium.com/@dilaraseren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dilaraseren" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucnwbv-sjt5vwe5mrtcuq-mg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucnwbv-sjt5vwe5mrtcuq-mg" height="30" width="40" /></a>
+</p>
 
 <h3 align="center"> 🛠 Technologies & Tools 🛠 </h3>
 <p align="center">

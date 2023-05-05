@@ -9,7 +9,6 @@
 <h4 align="center">You could contact me using those links.</h4>
 <p align="center">
  <a href="https://linkedin.com/in/in/dilaraseren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/dilaraseren" height="30" width="40" /></a>
-<a href="https://instagram.com/aralidneress" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aralidneress" height="30" width="40" /></a>
 <a href="https://medium.com/@dilaraseren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dilaraseren" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ucnwbv-sjt5vwe5mrtcuq-mg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucnwbv-sjt5vwe5mrtcuq-mg" height="30" width="40" /></a>
 </p>

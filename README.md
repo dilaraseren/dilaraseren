@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋 , I'm Dilara</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;I+'m+Dilara+Seren.&color=A546F7&center=true&size=23">
+  </a>
+</h1>
+
 
  [![](https://visitcount.itsvg.in/api?id=dilaraseren&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
 

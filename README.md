@@ -8,7 +8,7 @@
  [![](https://visitcount.itsvg.in/api?id=dilaraseren&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 - 🎓 I am graduated Düzce University Computer Engineering department.
-- 👩🏻‍💻 I am currently working Virtualization Operations Assistant Specialist at [Turk Telekom](https://www.turktelekomkariyer.com.tr/)
+- 👩🏻‍💻 I am currently working Virtualization Operations Specialist at [Turk Telekom](https://www.turktelekomkariyer.com.tr/)
 - 💌 You can reach me on [dilaraserenbm@gmail.com](mailto:dilaraserenbm@gmail.com) <br>
 
 <h4 align="center">You could contact me using those links.</h4>
